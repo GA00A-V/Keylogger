@@ -1,5 +1,4 @@
-# 100-days-Python
-100 days of python coding
+# Python Excercise
 
 # Requirements of this repository:
 this projects uses third party libraries or modules such as
